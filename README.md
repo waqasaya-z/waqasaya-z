@@ -3,6 +3,7 @@
 
  <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasaya-z&layout=compact" /> 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=waqasaya-z)](https://git.io/streak-stats)
 
 
 
