@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<!-- <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=waqasaya-z&show_icons=true&theme=radical" /> -->
+
+ <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasaya-z&layout=compact" /> 
+
+
+
 
 <!--
 **waqasaya-z/waqasaya-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
