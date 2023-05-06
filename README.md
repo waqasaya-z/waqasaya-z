@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Web
 
-If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqas-ayaz-856811266/"> LinkedIn </a> or email me at waqasayaz@icloud.com.
+If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqas-ayaz-856811266/"> LinkedIn </a>.
 
 ##
 
