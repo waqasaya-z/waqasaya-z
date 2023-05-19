@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Web & App development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NodeJS BackEnd
 - 💬 Ask me about Web
 
 If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqas-ayaz-856811266/"> LinkedIn </a>.
