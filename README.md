@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning NodeJS Backend
 - 💬 Ask me about Web
 
-If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqas-ayaz-856811266/"> LinkedIn</a>.
+If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqasayaz/"> LinkedIn</a>.
 
 ##
 
