@@ -4,8 +4,8 @@
  <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasaya-z&layout=compact" /> -->
 ## Hi there 👋
 
-- 🔭 I’m currently working on Web & App development
-- 🌱 I’m currently learning NodeJS Backend
+- 🔭 I’m currently working on Full Stack development
+- 🌱 I’m currently getting into AI
 - 💬 Ask me about Web
 
 If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqasayaz/"> LinkedIn</a>.
