@@ -13,12 +13,6 @@ better by visiting my <a href="https://my-portfolio-waqasayaz.vercel.app/"> Port
 
 If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqasayaz/"> LinkedIn</a>.
 
-##
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=waqasaya-z)](https://git.io/streak-stats)
-
-
-
 <!--
 **waqasaya-z/waqasaya-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
