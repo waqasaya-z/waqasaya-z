@@ -11,7 +11,7 @@ better by visiting my <a target="_blank" href="https://www.waqasayaz.com"> Portf
 - 🌱 I’m currently getting into AI
 - 💬 Ask me about Web
 
-If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqasayaz/"> LinkedIn</a> or write to me at <a href="mailto:developer@waqasayaz.com">developer@waqasayaz.com</a>.
+If you've got any question, you can reach me on <a href="https://www.linkedin.com/in/waqasayaz/"> LinkedIn</a> or write to me at <a href="mailto:developer@waqasayaz.com?subject=Inquiry&body=Hi Waqas,">developer@waqasayaz.com</a>.
 
 <!--
 **waqasaya-z/waqasaya-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
