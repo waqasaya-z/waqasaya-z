@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 I'm Waqas, a Full Stack developer who specialize in technologies such as React, Next, Node & more. You can get to know me 
-better by visiting my <a href="https://waqasayaz.vercel.app"> Portfolio</a>.
+better by visiting my <a href="https://www.waqasayaz.com"> Portfolio</a>.
 
 - 🔭 I’m currently working on Full Stack development
 - 🌱 I’m currently getting into AI
